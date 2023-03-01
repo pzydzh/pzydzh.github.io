@@ -6,7 +6,7 @@
   <link href="http://sangplus.com.cn/atom.xml" rel="self"/>
   
   <link href="http://sangplus.com.cn/"/>
-  <updated>2023-02-27T03:01:17.956Z</updated>
+  <updated>2023-03-01T16:59:09.995Z</updated>
   <id>http://sangplus.com.cn/</id>
   
   <author>
@@ -17,62 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>浅析对比学习(contrastive learning)在NLP中的应用</title>
-    <link href="http://sangplus.com.cn/2023/02/27/%E6%B5%85%E6%9E%90%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0-contrastive-learning-%E5%9C%A8NLP%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/"/>
-    <id>http://sangplus.com.cn/2023/02/27/%E6%B5%85%E6%9E%90%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0-contrastive-learning-%E5%9C%A8NLP%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</id>
-    <published>2023-02-27T03:01:17.000Z</published>
-    <updated>2023-02-27T03:01:17.956Z</updated>
+    <title>婚纱照修改意见</title>
+    <link href="http://sangplus.com.cn/2023/03/02/%E5%A9%9A%E7%BA%B1%E7%85%A7%E4%BF%AE%E6%94%B9%E6%84%8F%E8%A7%81/"/>
+    <id>http://sangplus.com.cn/2023/03/02/%E5%A9%9A%E7%BA%B1%E7%85%A7%E4%BF%AE%E6%94%B9%E6%84%8F%E8%A7%81/</id>
+    <published>2023-03-01T16:34:01.000Z</published>
+    <updated>2023-03-01T16:59:09.995Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://sangplus.com.cn/2023/02/12/hello-world/"/>
-    <id>http://sangplus.com.cn/2023/02/12/hello-world/</id>
-    <published>2023-02-12T14:43:59.034Z</published>
-    <updated>2018-01-01T04:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<span id="more"></span><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2023/03/02/%E5%A9%9A%E7%BA%B1%E7%85%A7%E4%BF%AE%E6%94%B9%E6%84%8F%E8%A7%81/0.png" alt="0"></p><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
     
     
       
       
-    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
-
-&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/doc</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2023/03/02/%E5%A9%9A%E7%BA%B1%E7%85%A7%E4%BF%AE%E6%94%B9%E6%84%8F%E8%A7%81/0.png&quot; alt=&quot;0&quot;&gt;&lt;/p&gt;
+&lt;script type=&quot;text&amp;#x2F;javascr</summary>
       
     
     
     
-    <category term="Hello" scheme="http://sangplus.com.cn/categories/Hello/"/>
-    
-    
-    <category term="hello" scheme="http://sangplus.com.cn/tags/hello/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Bert的打开方式</title>
-    <link href="http://sangplus.com.cn/2022/02/23/Bert%E7%9A%84%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F/"/>
-    <id>http://sangplus.com.cn/2022/02/23/Bert%E7%9A%84%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F/</id>
-    <published>2022-02-23T14:55:50.000Z</published>
-    <updated>2023-02-27T03:03:55.623Z</updated>
-    
-    <content type="html"><![CDATA[<p>本文将介绍一些加载Bert预训练模型的一些方法和技巧。</p><span id="more"></span><h3 id="预训练模型的获取"><a href="#预训练模型的获取" class="headerlink" title="预训练模型的获取"></a>预训练模型的获取</h3><p>huggingface官网获取各种预训练模型，包括tf和torch的模型。</p><h2 id="transformers加载bert"><a href="#transformers加载bert" class="headerlink" title="transformers加载bert"></a>transformers加载bert</h2><p>transformers提供了一套非常完备的工具</p><p>以下案例使用的预训练模型为<a href="https://huggingface.co/uer/chinese_roberta_L-2_H-128">chinese_roberta_L-2_H-128</a>，演示不同的embedding方式会获得什么样内容</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> transformers <span class="keyword">import</span> BertTokenizer, TFAutoModel</span><br><span class="line"></span><br><span class="line">model_path = <span class="string">&quot;chinese_roberta_L-2_H-128&quot;</span></span><br><span class="line"></span><br><span class="line">tokenizer = BertTokenizer.from_pretrained(model_path)</span><br><span class="line">model = TFAutoModel.from_pretrained(model_path)</span><br><span class="line"></span><br><span class="line">sentence = <span class="string">&quot;今天深圳的天气好&quot;</span></span><br><span class="line">token_ids = tokenizer.encode(sentence)</span><br><span class="line"><span class="built_in">print</span>(token_ids)</span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(token_ids))</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;----------------------&quot;</span>)</span><br><span class="line">token_ids = tokenizer.encode_plus(sentence)</span><br><span class="line"><span class="built_in">print</span>(token_ids)</span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(token_ids))</span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">len</span>(token_ids))</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;----------------------&quot;</span>)</span><br><span class="line">token_ids = tokenizer(sentence)</span><br><span class="line"><span class="built_in">print</span>(token_ids)</span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(token_ids))</span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">len</span>(token_ids))</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;----------------------&quot;</span>)</span><br><span class="line">token_ids = tokenizer(sentence, return_tensors=<span class="string">&quot;tf&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(token_ids)</span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(token_ids))</span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">len</span>(token_ids))-V</span><br></pre></td></tr></table></figure><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">[101, 791, 1921, 3918, 1766, 4638, 1921, 3698, 1962, 102]</span><br><span class="line">&lt;class &#x27;list&#x27;&gt;</span><br><span class="line">----------------------</span><br><span class="line">&#123;&#x27;input_ids&#x27;: [101, 791, 1921, 3918, 1766, 4638, 1921, 3698, 1962, 102], &#x27;token_type_ids&#x27;: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], &#x27;attention_mask&#x27;: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]&#125;</span><br><span class="line">&lt;class &#x27;transformers.tokenization_utils_base.BatchEncoding&#x27;&gt;</span><br><span class="line">3</span><br><span class="line">----------------------</span><br><span class="line">&#123;&#x27;input_ids&#x27;: [101, 791, 1921, 3918, 1766, 4638, 1921, 3698, 1962, 102], &#x27;token_type_ids&#x27;: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], &#x27;attention_mask&#x27;: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]&#125;</span><br><span class="line">&lt;class &#x27;transformers.tokenization_utils_base.BatchEncoding&#x27;&gt;</span><br><span class="line">3</span><br><span class="line">----------------------</span><br><span class="line">&#123;&#x27;input_ids&#x27;: &lt;tf.Tensor: shape=(1, 10), dtype=int32, numpy=</span><br><span class="line">array([[ 101,  791, 1921, 3918, 1766, 4638, 1921, 3698, 1962,  102]],</span><br><span class="line">      dtype=int32)&gt;, &#x27;token_type_ids&#x27;: &lt;tf.Tensor: shape=(1, 10), dtype=int32, numpy=array([[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]], dtype=int32)&gt;, &#x27;attention_mask&#x27;: &lt;tf.Tensor: shape=(1, 10), dtype=int32, numpy=array([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=int32)&gt;&#125;</span><br><span class="line">&lt;class &#x27;transformers.tokenization_utils_base.BatchEncoding&#x27;&gt;</span><br><span class="line">3</span><br></pre></td></tr></table></figure><p>其中的101和102表示的是句子起始符和句子结束符号在<a href="https://huggingface.co/uer/chinese_roberta_L-2_H-128">chinese_roberta_L-2_H-128</a>的词表中对应的token id。</p><h3 id="获取bert的输出"><a href="#获取bert的输出" class="headerlink" title="获取bert的输出"></a>获取bert的输出</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">inputs = tokenizer.encode_plus(<span class="string">&quot;深圳真好&quot;</span>, return_tensors=<span class="string">&quot;tf&quot;</span>)</span><br><span class="line">output = model(inputs)</span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">len</span>(output)) <span class="comment"># 2， 输出有两个</span></span><br><span class="line"><span class="string">&#x27;&#x27;&#x27;</span></span><br><span class="line"><span class="string">output[0]的shape是batch_size*seq_len*emb_dim，是last_hidden_state，模型最后一一个隐藏状态</span></span><br><span class="line"><span class="string">output[1]是batch_size*emb_dim，pooler_output</span></span><br><span class="line"><span class="string">&#x27;&#x27;&#x27;</span></span><br></pre></td></tr></table></figure><p>怎么获取bert中每一层的输出呢？因为有一些任务需要将每一层的输出进行加权求和作为bert的输出。bert的输出肯定还有其他的，比如attention是多少呀之类的。</p><h2 id="keras-bert加载bert"><a href="#keras-bert加载bert" class="headerlink" title="keras-bert加载bert"></a>keras-bert加载bert</h2><p>pass</p><h2 id="bert4keras加载bert"><a href="#bert4keras加载bert" class="headerlink" title="bert4keras加载bert"></a>bert4keras加载bert</h2><p>pass</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;本文将介绍一些加载Bert预训练模型的一些方法和技巧。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="NLP" scheme="http://sangplus.com.cn/categories/NLP/"/>
-    
-    
-    <category term="nlp" scheme="http://sangplus.com.cn/tags/nlp/"/>
     
   </entry>
   
