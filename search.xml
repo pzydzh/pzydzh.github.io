@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
+  <entry>
+    <title>sentence-transformers详解</title>
+    <url>/2023/03/15/sentence-transformers%E8%AF%A6%E8%A7%A3/</url>
+    <content><![CDATA[<p>从基础的bert构建一个sentence-transformer模型</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> sentence_transformers <span class="keyword">import</span> SentenceTransformer, models</span><br><span class="line"></span><br><span class="line">model_path = <span class="string">&quot;/Users/sang/workhome/pretrained_models/pytorch/pytorch_bert&quot;</span></span><br><span class="line"></span><br><span class="line">word_embedding_model = models.Transformer(model_path, max_seq_length=<span class="number">256</span>)</span><br><span class="line">pooling_model = models.Pooling(word_embedding_model.get_word_embedding_dimension())</span><br><span class="line"></span><br><span class="line">model = SentenceTransformer(modules=[word_embedding_model, pooling_model])</span><br><span class="line"></span><br><span class="line">sentences = [<span class="string">&#x27;This framework generates embeddings for each input sentence&#x27;</span>,</span><br><span class="line">    <span class="string">&#x27;Sentences are passed as a list of string.&#x27;</span>,</span><br><span class="line">    <span class="string">&#x27;The quick brown fox jumps over the lazy dog.&#x27;</span>]</span><br><span class="line"></span><br><span class="line"><span class="comment">#Sentences are encoded by calling model.encode()</span></span><br><span class="line">embeddings = model.encode(sentences)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(embeddings.shape)</span><br><span class="line"><span class="built_in">print</span>(embeddings.dtype)</span><br></pre></td></tr></table></figure>
+
+<p>准备训练数据，用到InputExample模块</p>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <tags>
+        <tag>预训练模型</tag>
+        <tag>NLP</tag>
+      </tags>
+  </entry>
 </search>
